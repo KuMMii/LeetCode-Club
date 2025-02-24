@@ -8,7 +8,7 @@
 
 ### 📝 Problem List
 
-For more detail, visit [here](leetcode.com/problem-list/22526ogg/)
+For more details, please visit [here](leetcode.com/problem-list/22526ogg/).
 
 #### Week 1
 
