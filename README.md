@@ -27,3 +27,8 @@ For more details, please visit [here](leetcode.com/problem-list/22526ogg/).
 
 - [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses?envType=study-plan-v2&envId=top-interview-150)
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers?envType=study-plan-v2&envId=top-interview-150)
+
+#### Week 5
+
+- [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/?envType=study-plan-v2&envId=top-interview-150)
+- [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/?envType=problem-list-v2&envId=22526ogg)
